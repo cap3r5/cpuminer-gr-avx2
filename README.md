@@ -17,6 +17,7 @@ unjust ban after posting about first release about this miner.
 See file RELEASE_NOTES for change log and INSTALL_LINUX or INSTALL_WINDOWS
 for compile instructions.
 
+
 Requirements
 ------------
 
